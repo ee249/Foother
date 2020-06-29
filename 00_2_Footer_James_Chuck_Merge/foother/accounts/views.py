@@ -32,7 +32,7 @@ def signup(request):
 
     return render(request, 'accounts/form.html', context)
     
-@require_POST
+
 def detail(request, user_pk):
     user = get_object_or_404(User, pk=user_pk)
     context = {
@@ -41,7 +41,7 @@ def detail(request, user_pk):
     return render(request, 'accounts/detail.html', context)
 
 
-@require_http_methods(['GET', 'POST'])
+
 def signup_update(request, user_pk):
     user = get_object_or_404(User, pk=user_pk)
     if request.method == 'POST':
@@ -59,7 +59,7 @@ def signup_update(request, user_pk):
     return render(request, 'accounts/signup_update.html', context)
 
 
-@require_http_methods(['GET', 'POST'])
+
 def login(request):
     if request.user.is_authenticated :
         return redirect('accounts:index')

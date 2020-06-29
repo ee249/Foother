@@ -11,6 +11,7 @@ class Review(models.Model):
     restaurant_name = models.CharField(max_length=100)
     food_name = models.CharField(max_length=100)
     food_star = models.FloatField()
+    food_review = models.CharField(max_length=300, default='nonono')
     food_image = ProcessedImageField(
                 upload_to='upload_photo',
                 processors=[ResizeToFill(200, 200)],

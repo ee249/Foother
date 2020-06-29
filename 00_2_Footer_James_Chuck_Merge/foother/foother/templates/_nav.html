@@ -17,12 +17,13 @@
 
     <nav class="nav-menu d-flex flex-column justify-content-flex-start">
       <ul>
-        <li><a href="/accounts/"><i class="bx bx-book-content mr-2 ml-2"></i>Home</a></li>
+        <li><a href="/accounts/"><img src="{% static 'img/홈.png' %}" class="main-icon mr-2 ml-2">Home</a></li>
+        {% comment %} <i class="bx bx-book-content mr-2 ml-2"></i> {% endcomment %}
         <li><a href="#food_feelings"><img src="{% static 'img/음식추천.png' %}" class="main-icon mr-2 ml-2">음식추천</a></li>
-        <li><a href="#input"><i class="bx bx-file-blank mr-2 ml-2"></i>업로드</a></li>
-        <li><a href="#profile"><i class="bx bx-book-content mr-2 ml-2"></i>내프로필</a></li>
-        <li><a href="#all"><i class="bx bx-server mr-2 ml-2"></i>전체보기</a></li>
-        <li><a href="#faq"><i class="bx bx-envelope mr-2 ml-2"></i>FAQ</a></li>
+        <li><a href="{% url 'maps:review-create' %}"><img src="{% static 'img/카메라.png' %}" class="main-icon mr-2 ml-2">업로드</a></li>
+        <li><a href="{% url 'maps:review-profile' user.username %}"><img src="{% static 'img/location.png' %}" class="main-icon mr-2 ml-2">내프로필</a></li>
+        <li><a><i class="bx bx-server mr-2 ml-2"></i>전체보기</a></li>
+        <li><a ><i class="bx bx-envelope mr-2 ml-2"></i>FAQ</a></li>
       {% if request.user.is_authenticated %}
         <li><a href="{% url 'accounts:detail' user.pk %}"><i class="bx bx-home mr-2 ml-2"></i>Profile</a></li>
         <li><a href="{% url 'accounts:logout' %}">로그아웃</a></li>

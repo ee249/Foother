@@ -16,7 +16,10 @@
   <!-- Favicons -->
   <link href="{% static 'img/favicon.png' %}" rel="icon">
   <link href="{% static 'img/apple-touch-icon.png' %}" rel="apple-touch-icon">
-
+  
+  <!-- kakaomap api-->
+  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=50be581e2ca72229d9d9ae0b3a47c26c"></script>
+  
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -42,21 +45,21 @@
 <body>
 
   {% include '_nav.html' %}
-  <div class="container2 mt-5">
+  <div class="container2">
   <!--  -->
   {% include '_main.html' %}
   <!--  -->
 
     <main id="main">
+    {% block see_all %}
+    {% endblock %}
+
     {% block content %}
     {% endblock  %}
-    {% block profile %}
-    {% endblock  %}
-
-    <!-- James, main, feeling, food 조합 start -->
+    {% comment %} <!-- James, main, feeling, food 조합 start -->
     {% include 'roots/_james_main_feelings.html' %}
     <!-- James, feeling, food 조합 end -->
-
+    
     <!-- Chuck, maps start -->
     {% include 'maps/_chuck_main_input.html' %}
     <!-- Chuck, maps end -->
@@ -73,7 +76,7 @@
     {% include '_faq.html' %}
     <!-- see_all end -->
     
-
+ {% endcomment %}
 
 
     <!-- ======= Services Section ======= -->

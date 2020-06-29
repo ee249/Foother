@@ -4,7 +4,7 @@ from imagekit.models import ProcessedImageField
 from imagekit.processors import ResizeToFill
 
 # Create your models here.
-class Upload(models.Model):
+class Review(models.Model):
     restaurant_address = models.CharField(max_length=100)
     lat = models.FloatField()
     lng = models.FloatField()
@@ -18,5 +18,5 @@ class Upload(models.Model):
                 options={
                     'quality': 80}
     )
-    upload_user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    user_upload = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='user_upload')
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    # user = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='')

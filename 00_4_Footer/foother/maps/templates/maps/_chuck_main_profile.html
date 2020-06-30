@@ -3,7 +3,7 @@
 
 {% block content %}
 
-  {% for review in reviews %}
+  {% for review in review_user.review_set.all %}
     {{ review.user }}
     {{ review.address }}
     {{ review.food_namd }}

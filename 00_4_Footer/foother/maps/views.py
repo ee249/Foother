@@ -14,10 +14,10 @@ def review(request):
     if request.method == 'POST':
         form = ReviewForm(request.POST, request.FILES)
         if form.is_valid():
-            user = form.save(commit=False)
-            user.username = request.username
-            user.save()
-            return redirect('maps:profile', user.username)
+            review = form.save(commit=False)
+            review.user = request.user
+            review.save()
+            return redirect('maps:profile', review.username)
 
     else:
         form = ReviewForm()
@@ -32,8 +32,8 @@ def review(request):
 
 @login_required
 def profile(request, username):
-    reviews = get_object_or_404(get_user_model(), username=username)
+    user = get_object_or_404(get_user_model(), username=username)
     context = {
-        'reviews' : reviews,
+        'review_user' : user,
     }
     return render(request, 'maps/_chuck_main_profile.html', context)

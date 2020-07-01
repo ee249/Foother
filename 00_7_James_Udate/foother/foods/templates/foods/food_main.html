@@ -5,7 +5,7 @@
     <div>
         {% for foodCategory in foodsCategories %}
             {% comment %} <button data-id="{{emotion.id}}" class="attr">{{emotion.emotion_name}}</button> {% endcomment %}
-            <a href="{% url 'foods:result' foodCategory.food_ctg %}"><button>{{ foodCategory.food_ctg }}</button></a>
+            <a href="{% url 'foods:result' foodCategory.food_ctg %}"><button class="btn btn-success">{{ foodCategory.food_ctg }}</button></a>
         {% endfor %}
     </div>
 

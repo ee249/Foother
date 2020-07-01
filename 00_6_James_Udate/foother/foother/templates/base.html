@@ -23,6 +23,7 @@
   <!-- Google Fonts -->
   {% comment %} <link href="https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap" rel="stylesheet"> {% endcomment %}
   <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&display=swap" rel="stylesheet">
+  
   <!-- Vendor CSS Files -->
   <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
   <link href="{% static 'vendor/icofont/icofont.min.css' %}" rel="stylesheet">
@@ -43,21 +44,23 @@
 </head>
 
 <body>
-  {% comment %} {% include '_nav.html' %} {% endcomment %}
   {% include '_nav.html' %}
+  
 <div class="container2">
   <main id="main">
     {% include '_main.html' %}
-    
+    <div class="ml-5 mt-2">
     {% block content %}
     {% endblock  %}
+    
     {% block youngi %}
-    {% endblock %}
+    {% endblock  %}
+    </div> 
     {% include '_see_all.html' %}
     {% include '_members.html' %}
+</div>
     {% include '_foother.html' %}
     
-
 
   <!-- javascript cdn-->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -76,6 +79,9 @@
   <script src="{% static 'vendor/owl.carousel/owl.carousel.min.js' %}"></script>
   <script src="{% static 'vendor/typed.js/typed.min.js' %}"></script>
   <script src="{% static 'vendor/aos/aos.js' %}"></script>
+
+  <!-- Template Main JS File -->
+  <script src="{% static 'js/main.js' %}"></script>
   <style>
         .map_wrap, .map_wrap * {margin:0;padding:0;font-family:'Malgun Gothic',dotum,'돋움',sans-serif;font-size:12px;}
         .map_wrap a, .map_wrap a:hover, .map_wrap a:active{color:#000;text-decoration: none;}
@@ -114,10 +120,6 @@
         #pagination a {display:inline-block;margin-right:10px;}
         #pagination .on {font-weight: bold; cursor: default;color:#777;}
     </style>
-
-  <!-- Template Main JS File -->
-  <script src="{% static 'js/main.js' %}"></script>
-
 </body>
 
 </html>

@@ -187,7 +187,7 @@
                         result += '<li>'+res.data.documents[0].phone+'</li>'
                         result += '<li>'+res.data.documents[0].road_address_name+'</li>' 
                         result += '<li>'+res.data.documents[0].category_group_name+'</li></ul>'
-                        result += '<a href="https://map.kakao.com/link/search/'+ title+'"target="_blank">자세히 보기</a>'
+                        result += '<a href="https://place.map.kakao.com/'+ res.data.documents[0].id+'"target="_blank">자세히 보기</a>'
                         target.innerHTML = result
                         });
                     });

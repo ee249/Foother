@@ -4,8 +4,19 @@
 <div class="row">
     <div class="col">
     {% for food in foods %}
+<<<<<<< HEAD:00_foother_James_Creation/mains/templates/foother/result.html
         <a href="{% url 'mains:select' food.food_name%}"><button>{{food.food_name}}</button></option>
+=======
+        <a href="{% url 'foods:select' food.food_name %}"><button class="btn btn-succerss">{{ food.food_name }}</button></a>
+>>>>>>> 065786ee841fe1f5f9312bf9a504042453456a66:00_5_James_merge/foother/foods/templates/foods/food_result.html
     {% endfor %}
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col">
+        <span> 오늘 이 음식은 어때요? </span>
+        <a href="{% url 'foods:select' randomfood.food_name %}"><button class="btn btn-warning">{{randomfood.food_name}}</button></a>
     </div>
 </div>
 {% endblock %}

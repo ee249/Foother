@@ -1,0 +1,3241 @@
+[
+{
+  "model": "foods.foodcategory",
+  "pk": 1,
+  "fields": {
+    "food_ctg": "\ubc25",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 2,
+  "fields": {
+    "food_ctg": "\uba74",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 3,
+  "fields": {
+    "food_ctg": "\ud2b9\uc2dd",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 4,
+  "fields": {
+    "food_ctg": "\uad6d\ud0d5",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 5,
+  "fields": {
+    "food_ctg": "\uac04\ud3b8\uc2dd",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 6,
+  "fields": {
+    "food_ctg": "\ubd84\uc2dd",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 7,
+  "fields": {
+    "food_ctg": "\ucc0c\uac1c",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodcategory",
+  "pk": 8,
+  "fields": {
+    "food_ctg": "\uad6c\uc774",
+    "food_ctg_image": "/img/ctg/chicken.png"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 1,
+  "fields": {
+    "food_name": "\uce74\ub808",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 2,
+  "fields": {
+    "food_name": "\ube44\ube54\ubc25",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 3,
+  "fields": {
+    "food_name": "\uc624\ubbc0\ub77c\uc774\uc2a4",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 4,
+  "fields": {
+    "food_name": "\uae40\uce58\ubcf6\uc74c\ubc25",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 5,
+  "fields": {
+    "food_name": "\uc81c\uc721\ub36e\ubc25",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 6,
+  "fields": {
+    "food_name": "\uce58\ud0a8\ub9c8\uc694",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 7,
+  "fields": {
+    "food_name": "\ub3c8\ubd80\ub9ac",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 8,
+  "fields": {
+    "food_name": "\uc0ac\ucf00\ub3d9",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 9,
+  "fields": {
+    "food_name": "\uaddc\ub3d9",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 10,
+  "fields": {
+    "food_name": "\ucd08\ubc25",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 11,
+  "fields": {
+    "food_name": "\ud150\ub3d9",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 12,
+  "fields": {
+    "food_name": "\ubf55\ud31f\ud3ff\ucee4\ub9ac",
+    "food_ctgs": 1,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 13,
+  "fields": {
+    "food_name": "\ud31f\ud0c0\uc774",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 14,
+  "fields": {
+    "food_name": "\ub77c\uba58",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 15,
+  "fields": {
+    "food_name": "\ud1a0\ub9c8\ud1a0\ud30c\uc2a4\ud0c0",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 16,
+  "fields": {
+    "food_name": "\uae4c\ub974\ubcf4\ub098\ub77c",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 17,
+  "fields": {
+    "food_name": "\ub0c9\uba74",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 18,
+  "fields": {
+    "food_name": "\uc794\uce58\uad6d\uc218",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 19,
+  "fields": {
+    "food_name": "\ube44\ube54\uad6d\uc218",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 20,
+  "fields": {
+    "food_name": "\uce7c\uad6d\uc218",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 21,
+  "fields": {
+    "food_name": "\uc6b0\ub3d9",
+    "food_ctgs": 2,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 22,
+  "fields": {
+    "food_name": "\ucf69\uad6d\uc218",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 23,
+  "fields": {
+    "food_name": "\uc54c\ub9ac\uc624\uc62c\ub9ac\uc624",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 24,
+  "fields": {
+    "food_name": "\ubaa8\ubc00",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 25,
+  "fields": {
+    "food_name": "\uc9dc\uc7a5\uba74",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 26,
+  "fields": {
+    "food_name": "\uc9ec\ubf55",
+    "food_ctgs": 2,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 27,
+  "fields": {
+    "food_name": "\uc300\uad6d\uc218",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 28,
+  "fields": {
+    "food_name": "\ubd84\uc9dc",
+    "food_ctgs": 2,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 29,
+  "fields": {
+    "food_name": "\ubd88\uace0\uae30",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 30,
+  "fields": {
+    "food_name": "\ucc1c\ub2ed",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 31,
+  "fields": {
+    "food_name": "\ub2ed\ubcf6\uc74c\ud0d5",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 32,
+  "fields": {
+    "food_name": "\uc2a4\ud14c\uc774\ud06c",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 33,
+  "fields": {
+    "food_name": "\uc218\uc721",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 34,
+  "fields": {
+    "food_name": "\uc544\uadc0\ucc1c",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 35,
+  "fields": {
+    "food_name": "\uc308\ubc25",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 36,
+  "fields": {
+    "food_name": "\ub09a\uc9c0\ubcf6\uc74c",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 37,
+  "fields": {
+    "food_name": "\uc871\ubc1c",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 38,
+  "fields": {
+    "food_name": "\ubcf4\uc308",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 39,
+  "fields": {
+    "food_name": "\uce58\ud0a8",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 40,
+  "fields": {
+    "food_name": "\ud53c\uc790",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 41,
+  "fields": {
+    "food_name": "\uae50\ud48d\uae30",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 42,
+  "fields": {
+    "food_name": "\ub9c8\ud30c\ub450\ubd80",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 43,
+  "fields": {
+    "food_name": "\ud0d5\uc218\uc721",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 44,
+  "fields": {
+    "food_name": "\uc6d4\ub0a8\uc308",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 45,
+  "fields": {
+    "food_name": "\ub2ed\uac08\ube44",
+    "food_ctgs": 3,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 46,
+  "fields": {
+    "food_name": "\uc21c\ub300\uad6d",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 47,
+  "fields": {
+    "food_name": "\ucf69\ub098\ubb3c\uad6d\ubc25",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 48,
+  "fields": {
+    "food_name": "\ubd81\uc5c7\uad6d",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 49,
+  "fields": {
+    "food_name": "\ud64d\ud569\ud0d5",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 50,
+  "fields": {
+    "food_name": "\ubf08\ud574\uc7a5\uad6d",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 51,
+  "fields": {
+    "food_name": "\ub9e4\uc0dd\uc774\uad6d",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 52,
+  "fields": {
+    "food_name": "\uc120\uc9c0\ud574\uc7a5\uad6d",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 53,
+  "fields": {
+    "food_name": "\uc6b0\uac70\uc9c0\uad6d",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 54,
+  "fields": {
+    "food_name": "\ub5a1\uad6d",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 55,
+  "fields": {
+    "food_name": "\uc18c\uace0\uae30\ubb34\uad6d",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 56,
+  "fields": {
+    "food_name": "\uc2dc\ub798\uae43\uad6d",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 57,
+  "fields": {
+    "food_name": "\uac08\ube44\ud0d5",
+    "food_ctgs": 4,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 58,
+  "fields": {
+    "food_name": "\ucd94\uc5b4\ud0d5",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 59,
+  "fields": {
+    "food_name": "\uc0bc\uacc4\ud0d5",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 60,
+  "fields": {
+    "food_name": "\ub300\uad6c\ud0d5",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 61,
+  "fields": {
+    "food_name": "\ub9cc\ub450\uad6d",
+    "food_ctgs": 4,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 62,
+  "fields": {
+    "food_name": "\ud584\ubc84\uac70",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 63,
+  "fields": {
+    "food_name": "\uc2dc\ub9ac\uc5bc",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 64,
+  "fields": {
+    "food_name": "\ud3b8\uc758\uc810",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 65,
+  "fields": {
+    "food_name": "\uc0cc\ub4dc\uc704\uce58",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 66,
+  "fields": {
+    "food_name": "\uc0d0\ub7ec\ub4dc",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 67,
+  "fields": {
+    "food_name": "\ube0c\ub9ac\ub610",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 68,
+  "fields": {
+    "food_name": "\ud3ec\ucf00",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 69,
+  "fields": {
+    "food_name": "\ud504\ub80c\uce58\ud1a0\uc2a4\ud2b8",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 70,
+  "fields": {
+    "food_name": "\ubc25\ubc84\uac70",
+    "food_ctgs": 5,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 71,
+  "fields": {
+    "food_name": "\ub5a1\ubcf6\uc774",
+    "food_ctgs": 6,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 72,
+  "fields": {
+    "food_name": "\ud56b\ub3c4\uadf8",
+    "food_ctgs": 6,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 73,
+  "fields": {
+    "food_name": "\uc21c\ub300",
+    "food_ctgs": 6,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 74,
+  "fields": {
+    "food_name": "\ud280\uae40",
+    "food_ctgs": 6,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 75,
+  "fields": {
+    "food_name": "\ub9cc\ub450",
+    "food_ctgs": 6,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 76,
+  "fields": {
+    "food_name": "\uc721\uac1c\uc7a5",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 77,
+  "fields": {
+    "food_name": "\ub2ed\uac1c\uc7a5",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 78,
+  "fields": {
+    "food_name": "\ub41c\uc7a5\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 79,
+  "fields": {
+    "food_name": "\uae40\uce58\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 80,
+  "fields": {
+    "food_name": "\ubd80\ub300\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 81,
+  "fields": {
+    "food_name": "\uc21c\ub450\ubd80\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 82,
+  "fields": {
+    "food_name": "\uccad\uad6d\uc7a5\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 83,
+  "fields": {
+    "food_name": "\ub3d9\ud0dc\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 84,
+  "fields": {
+    "food_name": "\ube44\uc9c0\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 85,
+  "fields": {
+    "food_name": "\uace0\ucd94\uc7a5\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 86,
+  "fields": {
+    "food_name": "\uc624\uc9d5\uc5b4\ucc0c\uac1c",
+    "food_ctgs": 7,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 87,
+  "fields": {
+    "food_name": "\uc591\uace0\uae30",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 88,
+  "fields": {
+    "food_name": "\uc18c\uace0\uae30",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 89,
+  "fields": {
+    "food_name": "\ub3fc\uc9c0\uace0\uae30",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 90,
+  "fields": {
+    "food_name": "\ub3fc\uc9c0\uaecd\ub370\uae30",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 91,
+  "fields": {
+    "food_name": "\ub3fc\uc9c0\ub9c9\ucc3d",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 92,
+  "fields": {
+    "food_name": "\uc18c\uacf1\ucc3d",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 93,
+  "fields": {
+    "food_name": "\uc0dd\uc120\uad6c\uc774",
+    "food_ctgs": 8,
+    "status": "\uc77c\ubc18"
+  }
+},
+{
+  "model": "foods.foodchoice",
+  "pk": 94,
+  "fields": {
+    "food_name": "\ub77c\uba74",
+    "food_ctgs": 2,
+    "status": "\ud574\uc7a5"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "accounts",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "maps",
+    "model": "review"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "maps",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "foods",
+    "model": "foodcategory"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "foods",
+    "model": "foodchoice"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6q9pww0rk5ztsgq5b4s2dyoyu6wqk8od",
+  "fields": {
+    "session_data": "YjA4ZWM3MTljYzA5ZDIzMGMzZWM0YjI2YmFjODU5OWRiMTE1YWY3OTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MmM4YWZiOGUxNmQ4NDAzYTYwMzMzYjVkZWExYzUyNjcwY2Y5YzMyIn0=",
+    "expire_date": "2020-07-17T06:00:16.064Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ukwb6moh5h0yaf2q39kyzjsez30is6h2",
+  "fields": {
+    "session_data": "MWM5ZmVhMWVlYjkzMWZlZTNiYmI2ZWM3YWU0NWFmZTM1M2Y5NzY2Mjp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIyZjJjNzU5Nzg3MGRhNDk5ZmQ1NGIwYjk0OGE5OTVkYjFjNTgxOWE5In0=",
+    "expire_date": "2020-07-17T07:24:19.811Z"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 1,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 1,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 1,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 1,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 2,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 2,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 2,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 2,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 3,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 3,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 3,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 3,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add food category",
+    "content_type": 4,
+    "codename": "add_foodcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change food category",
+    "content_type": 4,
+    "codename": "change_foodcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete food category",
+    "content_type": 4,
+    "codename": "delete_foodcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view food category",
+    "content_type": 4,
+    "codename": "view_foodcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add food choice",
+    "content_type": 5,
+    "codename": "add_foodchoice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change food choice",
+    "content_type": 5,
+    "codename": "change_foodchoice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete food choice",
+    "content_type": 5,
+    "codename": "delete_foodchoice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view food choice",
+    "content_type": 5,
+    "codename": "view_foodchoice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 6,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 6,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 6,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 6,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 7,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 7,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 7,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 7,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 8,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 8,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 8,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 8,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 9,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 9,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 9,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 9,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 10,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 10,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 10,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 10,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$ElZ7QdY86yEi$CHvthSpZdaHuSE2eSUO/EzEEhIWJNDTV3owOo5/4tmk=",
+    "last_login": "2020-07-03T06:00:16.018Z",
+    "is_superuser": false,
+    "username": "ee249",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-07-03T05:26:27.282Z",
+    "user_phone": "01036232376",
+    "user_created": "2020-07-03T05:26:28.150Z",
+    "user_score": 0,
+    "user_profile_image": "user_profile_image/pregu.jpg",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$CuIegSxA6Tqr$oekSiMOFnkKnbRKUoyvKNjKA83iLiq+sCYjd1PqNiuw=",
+    "last_login": "2020-07-03T05:27:53.003Z",
+    "is_superuser": true,
+    "username": "ee249123",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-07-03T05:27:33.904Z",
+    "user_phone": "",
+    "user_created": "2020-07-03T05:27:33.997Z",
+    "user_score": 0,
+    "user_profile_image": "default.png",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$Vvmgydn3bc7U$uG3F9R9gA4xj63+Fla7kcw/zQWxqHdNljoDX/Esxbv4=",
+    "last_login": "2020-07-03T07:24:19.771Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-07-03T07:24:09.359Z",
+    "user_phone": "",
+    "user_created": "2020-07-03T07:24:09.447Z",
+    "user_score": 0,
+    "user_profile_image": "default.png",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2020-07-03T07:25:12.074Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "FoodCategory object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2020-07-03T07:25:19.745Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "FoodCategory object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2020-07-03T07:25:23.678Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "FoodCategory object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2020-07-03T07:25:27.502Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "4",
+    "object_repr": "FoodCategory object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2020-07-03T07:25:32.184Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "FoodCategory object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2020-07-03T07:25:36.527Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "6",
+    "object_repr": "FoodCategory object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2020-07-03T07:25:42.137Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "FoodCategory object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2020-07-03T07:25:45.275Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "8",
+    "object_repr": "FoodCategory object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2020-07-03T07:25:48.099Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "FoodCategory object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2020-07-03T07:25:51.100Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "10",
+    "object_repr": "FoodCategory object (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2020-07-03T07:26:13.575Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "1",
+    "object_repr": "FoodChoice object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2020-07-03T07:26:20.306Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "2",
+    "object_repr": "FoodChoice object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2020-07-03T07:26:28.984Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "3",
+    "object_repr": "FoodChoice object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2020-07-03T07:26:37.003Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "4",
+    "object_repr": "FoodChoice object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2020-07-03T07:26:44.761Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "5",
+    "object_repr": "FoodChoice object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2020-07-03T07:27:14.929Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "6",
+    "object_repr": "FoodChoice object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2020-07-03T07:27:20.844Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "7",
+    "object_repr": "FoodChoice object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2020-07-03T07:27:47.695Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "8",
+    "object_repr": "FoodChoice object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2020-07-03T07:27:58.989Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "9",
+    "object_repr": "FoodChoice object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2020-07-03T07:28:05.839Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "10",
+    "object_repr": "FoodChoice object (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2020-07-03T07:30:09.202Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "11",
+    "object_repr": "FoodChoice object (11)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2020-07-03T07:30:23.848Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "12",
+    "object_repr": "FoodChoice object (12)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2020-07-03T07:30:40.903Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "13",
+    "object_repr": "FoodChoice object (13)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2020-07-03T07:30:48.341Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "14",
+    "object_repr": "FoodChoice object (14)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2020-07-03T07:30:55.629Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "15",
+    "object_repr": "FoodChoice object (15)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2020-07-03T07:31:04.030Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "16",
+    "object_repr": "FoodChoice object (16)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2020-07-03T07:31:11.300Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "17",
+    "object_repr": "FoodChoice object (17)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2020-07-03T07:31:21.308Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "18",
+    "object_repr": "FoodChoice object (18)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2020-07-03T07:37:12.986Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "7",
+    "object_repr": "FoodChoice object (7)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2020-07-03T07:37:18.882Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "8",
+    "object_repr": "FoodChoice object (8)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2020-07-03T07:37:22.507Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "9",
+    "object_repr": "FoodChoice object (9)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2020-07-03T07:37:27.794Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "10",
+    "object_repr": "FoodChoice object (10)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2020-07-03T07:37:31.379Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "11",
+    "object_repr": "FoodChoice object (11)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2020-07-03T07:37:46.351Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "12",
+    "object_repr": "FoodChoice object (12)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\", \"food_ctgs\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2020-07-03T07:38:01.979Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "13",
+    "object_repr": "FoodChoice object (13)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2020-07-03T07:38:05.235Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "13",
+    "object_repr": "FoodChoice object (13)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2020-07-03T07:38:17.013Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "14",
+    "object_repr": "FoodChoice object (14)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2020-07-03T07:38:30.125Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "15",
+    "object_repr": "FoodChoice object (15)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2020-07-03T07:38:47.772Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "13",
+    "object_repr": "FoodChoice object (13)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2020-07-03T07:39:54.503Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "16",
+    "object_repr": "FoodChoice object (16)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2020-07-03T07:40:18.330Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "17",
+    "object_repr": "FoodChoice object (17)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2020-07-03T07:40:32.232Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "18",
+    "object_repr": "FoodChoice object (18)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2020-07-03T07:40:41.200Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "19",
+    "object_repr": "FoodChoice object (19)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2020-07-03T07:40:48.918Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "20",
+    "object_repr": "FoodChoice object (20)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2020-07-03T07:41:08.629Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "21",
+    "object_repr": "FoodChoice object (21)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2020-07-03T07:41:15.039Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "22",
+    "object_repr": "FoodChoice object (22)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2020-07-03T07:41:24.127Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "23",
+    "object_repr": "FoodChoice object (23)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2020-07-03T07:41:34.063Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "24",
+    "object_repr": "FoodChoice object (24)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2020-07-03T07:41:39.010Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "25",
+    "object_repr": "FoodChoice object (25)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2020-07-03T07:41:47.367Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "26",
+    "object_repr": "FoodChoice object (26)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2020-07-03T07:41:52.855Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "27",
+    "object_repr": "FoodChoice object (27)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2020-07-03T07:42:11.409Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "28",
+    "object_repr": "FoodChoice object (28)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2020-07-03T07:42:24.904Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "29",
+    "object_repr": "FoodChoice object (29)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2020-07-03T07:42:31.786Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "30",
+    "object_repr": "FoodChoice object (30)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2020-07-03T07:42:40.734Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "31",
+    "object_repr": "FoodChoice object (31)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2020-07-03T07:42:46.678Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "32",
+    "object_repr": "FoodChoice object (32)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2020-07-03T07:42:53.400Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "33",
+    "object_repr": "FoodChoice object (33)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2020-07-03T07:43:01.692Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "34",
+    "object_repr": "FoodChoice object (34)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2020-07-03T07:43:11.222Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "35",
+    "object_repr": "FoodChoice object (35)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2020-07-03T07:45:00.106Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "35",
+    "object_repr": "FoodChoice object (35)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2020-07-03T07:45:10.326Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "36",
+    "object_repr": "FoodChoice object (36)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2020-07-03T07:45:27.527Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "37",
+    "object_repr": "FoodChoice object (37)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2020-07-03T07:45:39.000Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "38",
+    "object_repr": "FoodChoice object (38)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2020-07-03T07:45:51.007Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "39",
+    "object_repr": "FoodChoice object (39)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2020-07-03T07:45:59.991Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "40",
+    "object_repr": "FoodChoice object (40)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2020-07-03T07:46:08.289Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "41",
+    "object_repr": "FoodChoice object (41)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2020-07-03T07:46:17.392Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "42",
+    "object_repr": "FoodChoice object (42)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2020-07-03T07:46:25.819Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "43",
+    "object_repr": "FoodChoice object (43)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2020-07-03T07:46:34.761Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "44",
+    "object_repr": "FoodChoice object (44)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2020-07-03T07:46:43.018Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "45",
+    "object_repr": "FoodChoice object (45)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2020-07-03T07:46:54.076Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "46",
+    "object_repr": "FoodChoice object (46)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2020-07-03T07:47:05.726Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "47",
+    "object_repr": "FoodChoice object (47)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2020-07-03T07:47:09.172Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "47",
+    "object_repr": "FoodChoice object (47)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2020-07-03T07:47:23.030Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "48",
+    "object_repr": "FoodChoice object (48)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2020-07-03T07:47:32.908Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "49",
+    "object_repr": "FoodChoice object (49)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2020-07-03T07:47:43.971Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "50",
+    "object_repr": "FoodChoice object (50)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2020-07-03T07:47:58.702Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "51",
+    "object_repr": "FoodChoice object (51)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2020-07-03T07:48:08.821Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "52",
+    "object_repr": "FoodChoice object (52)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2020-07-03T07:48:19.509Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "53",
+    "object_repr": "FoodChoice object (53)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2020-07-03T07:48:28.686Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "54",
+    "object_repr": "FoodChoice object (54)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2020-07-03T07:48:37.154Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "55",
+    "object_repr": "FoodChoice object (55)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2020-07-03T07:48:46.790Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "56",
+    "object_repr": "FoodChoice object (56)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2020-07-03T07:48:53.727Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "57",
+    "object_repr": "FoodChoice object (57)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2020-07-03T07:49:02.211Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "58",
+    "object_repr": "FoodChoice object (58)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2020-07-03T07:49:12.887Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "59",
+    "object_repr": "FoodChoice object (59)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2020-07-03T07:49:21.764Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "60",
+    "object_repr": "FoodChoice object (60)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2020-07-03T07:49:35.054Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "61",
+    "object_repr": "FoodChoice object (61)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2020-07-03T07:49:59.978Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "62",
+    "object_repr": "FoodChoice object (62)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2020-07-03T07:50:07.142Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "63",
+    "object_repr": "FoodChoice object (63)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2020-07-03T07:50:22.658Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "64",
+    "object_repr": "FoodChoice object (64)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2020-07-03T07:50:26.107Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "63",
+    "object_repr": "FoodChoice object (63)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2020-07-03T07:50:32.091Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "62",
+    "object_repr": "FoodChoice object (62)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2020-07-03T07:50:34.475Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "63",
+    "object_repr": "FoodChoice object (63)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2020-07-03T07:50:37.516Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "64",
+    "object_repr": "FoodChoice object (64)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2020-07-03T07:50:49.626Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "65",
+    "object_repr": "FoodChoice object (65)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2020-07-03T07:50:57.654Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "66",
+    "object_repr": "FoodChoice object (66)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2020-07-03T07:51:23.005Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "67",
+    "object_repr": "FoodChoice object (67)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2020-07-03T07:51:30.511Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "68",
+    "object_repr": "FoodChoice object (68)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2020-07-03T07:51:45.678Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "69",
+    "object_repr": "FoodChoice object (69)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2020-07-03T07:51:48.444Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "68",
+    "object_repr": "FoodChoice object (68)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2020-07-03T07:51:55.524Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "69",
+    "object_repr": "FoodChoice object (69)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2020-07-03T07:52:02.674Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "70",
+    "object_repr": "FoodChoice object (70)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2020-07-03T07:52:13.715Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "71",
+    "object_repr": "FoodChoice object (71)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2020-07-03T07:52:19.542Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "72",
+    "object_repr": "FoodChoice object (72)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2020-07-03T07:52:30.148Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "73",
+    "object_repr": "FoodChoice object (73)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2020-07-03T07:52:48.490Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "74",
+    "object_repr": "FoodChoice object (74)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2020-07-03T07:52:56.972Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "75",
+    "object_repr": "FoodChoice object (75)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2020-07-03T07:53:34.846Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "76",
+    "object_repr": "FoodChoice object (76)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2020-07-03T07:53:44.053Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "77",
+    "object_repr": "FoodChoice object (77)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2020-07-03T07:53:57.348Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "78",
+    "object_repr": "FoodChoice object (78)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2020-07-03T07:54:06.506Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "79",
+    "object_repr": "FoodChoice object (79)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2020-07-03T07:54:15.439Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "80",
+    "object_repr": "FoodChoice object (80)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2020-07-03T07:54:23.342Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "81",
+    "object_repr": "FoodChoice object (81)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2020-07-03T07:54:35.290Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "82",
+    "object_repr": "FoodChoice object (82)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2020-07-03T07:54:46.444Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "83",
+    "object_repr": "FoodChoice object (83)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2020-07-03T07:54:55.054Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "84",
+    "object_repr": "FoodChoice object (84)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2020-07-03T07:55:04.357Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "85",
+    "object_repr": "FoodChoice object (85)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2020-07-03T07:55:12.397Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "86",
+    "object_repr": "FoodChoice object (86)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2020-07-03T07:55:26.587Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "87",
+    "object_repr": "FoodChoice object (87)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2020-07-03T07:55:38.106Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "88",
+    "object_repr": "FoodChoice object (88)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2020-07-03T07:55:45.172Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "89",
+    "object_repr": "FoodChoice object (89)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2020-07-03T07:55:53.923Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "90",
+    "object_repr": "FoodChoice object (90)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2020-07-03T07:56:01.610Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "91",
+    "object_repr": "FoodChoice object (91)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2020-07-03T07:56:17.514Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "91",
+    "object_repr": "FoodChoice object (91)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2020-07-03T07:56:43.516Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "92",
+    "object_repr": "FoodChoice object (92)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2020-07-03T07:56:49.435Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "93",
+    "object_repr": "FoodChoice object (93)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2020-07-03T07:58:00.862Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "FoodCategory object (9)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2020-07-03T07:58:04.956Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "10",
+    "object_repr": "FoodCategory object (10)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2020-07-03T07:58:52.591Z",
+    "user": 3,
+    "content_type": 4,
+    "object_id": "8",
+    "object_repr": "FoodCategory object (8)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"food_ctg\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2020-07-03T08:32:12.320Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "26",
+    "object_repr": "FoodChoice object (26)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2020-07-03T08:32:31.248Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "46",
+    "object_repr": "FoodChoice object (46)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2020-07-03T08:33:15.830Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "94",
+    "object_repr": "FoodChoice object (94)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2020-07-03T08:33:37.012Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "47",
+    "object_repr": "FoodChoice object (47)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2020-07-03T08:33:51.939Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "48",
+    "object_repr": "FoodChoice object (48)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2020-07-03T08:34:17.167Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "50",
+    "object_repr": "FoodChoice object (50)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2020-07-03T08:34:33.902Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "52",
+    "object_repr": "FoodChoice object (52)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2020-07-03T08:34:58.482Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "53",
+    "object_repr": "FoodChoice object (53)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2020-07-03T08:35:39.884Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "57",
+    "object_repr": "FoodChoice object (57)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2020-07-03T08:36:12.779Z",
+    "user": 3,
+    "content_type": 5,
+    "object_id": "21",
+    "object_repr": "FoodChoice object (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+}
+]
